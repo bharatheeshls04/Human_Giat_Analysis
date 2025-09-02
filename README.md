@@ -61,4 +61,4 @@ Place the videos inside a folder, e.g., data/videos/.
 
 Update the file paths inside the Jupyter notebooks.
 
-## 📂 Repository Structure
+
