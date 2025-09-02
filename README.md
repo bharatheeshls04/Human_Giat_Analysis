@@ -47,4 +47,18 @@ By applying **computer vision techniques** (pose estimation, intelligent frame s
 
 ---
 
+## Data Requirement
+
+This project uses video recordings of participants walking on different surfaces (track, pavement, stairs, sand, grass, forest, pebbles, uphill, and downhill).
+
+Due to privacy and research restrictions, the original dataset cannot be shared publicly.
+
+However, you can replicate the pipeline with your own video recordings:
+
+Record short videos of a person walking on different terrains.
+
+Place the videos inside a folder, e.g., data/videos/.
+
+Update the file paths inside the Jupyter notebooks.
+
 ## 📂 Repository Structure
