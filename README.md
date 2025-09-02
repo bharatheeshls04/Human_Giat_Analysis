@@ -55,7 +55,7 @@ Due to privacy and research restrictions, the original dataset cannot be shared 
 
 However, you can replicate the pipeline with your own video recordings:
 
-Record short videos of a person walking on different terrains.
+Record a short video of a person walking on different terrains.
 
 Place the videos inside a folder, e.g., data/videos/.
 
